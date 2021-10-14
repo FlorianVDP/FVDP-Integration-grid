@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');$main-color: #DA4453;
+$main-font: 'Roboto', sans-serif;
+$display-font: 'Bebas Neue', cursive;
+// Color
+$blanc: #FFFFFF;
+$noir: #2f3640;
+$main-color : #38ada9;
+$main-color-2 : #b8e994;
+$main-color-3 : #78e08f;
+$main-color-4 : #079992;
+// Media Queries
+$variation-1 : 1280px;
+$variation-supp-1 : 900px;
+$variation-2 : 768px;
+$mobile : 600px;
+// Gap
+$gap : clamp(10px, 15px, 15px);
+// Autres
+$hauteur-menu : 80px;
